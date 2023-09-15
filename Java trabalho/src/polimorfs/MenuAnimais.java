@@ -29,7 +29,7 @@ public class MenuAnimais {
                     System.out.println("Saindo do programa.");
                     break;
                 default:
-                    System.out.println("Opção inválida. Tente novamente.");
+                    System.out.println("Opção inválida, Tente novamente.");
             }
         } while (opcao != 3);
     }
